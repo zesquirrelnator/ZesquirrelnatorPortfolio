@@ -13,6 +13,10 @@ body {
   color: #4e4e4e;
 }
 
+p {
+  font-size: medium;
+}
+
 h1,
 h2,
 h3,
